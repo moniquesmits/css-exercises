@@ -1,0 +1,19 @@
+.standard {
+    background-color: #fa8072;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fontchange {
+    font-size: 24px;
+}
+
+#bigblue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#smallgreen {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
