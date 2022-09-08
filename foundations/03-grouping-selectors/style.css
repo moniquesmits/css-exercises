@@ -1,0 +1,14 @@
+.firstbutton,
+.secondbutton {
+    font-family: Helvetica, "Times NewRoman", sans-serif;
+    font-size: 28px;
+}
+
+.firstbutton {
+    background-color: #000;
+    color: #fff;
+}
+
+.secondbutton {
+    background-color: #e7d068;
+}
